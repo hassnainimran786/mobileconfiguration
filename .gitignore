@@ -1,0 +1,5 @@
+/node_modules/
+/appfiles/
+stdout.log
+stdout.err.log
+.env

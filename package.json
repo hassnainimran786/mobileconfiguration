@@ -1,0 +1,31 @@
+{
+  "name": "mobileappconfiguration",
+  "version": "1.0.0",
+  "description": "GA Univ mobile app configuration",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^1.6.2",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.17.1",
+    "express-rate-limit": "^5.2.3",
+    "handlebars": "^4.7.8",
+    "mime": "^2.4.4",
+    "minio": "^7.1.3",
+    "multer": "^1.4.2",
+    "node-fetch": "^2.7.0",
+    "nodemailer": "^6.9.7",
+    "request": "^2.88.2",
+    "socket.io": "^4.0.0",
+    "uid": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "author": "Hamza Ali",
+  "license": "ISC"
+}
